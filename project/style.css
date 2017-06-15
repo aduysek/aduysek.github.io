@@ -1,0 +1,33 @@
+span {
+  font-family: Arial;
+}
+.font {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pangolin', cursive;
+}
+a{
+font-family: 'Pangolin', cursive;
+color: brown;
+text-decoration: none;
+}
+  a:hover {
+    color: blue;
+    font-size: 50px;
+  }
+  ul {
+    list-style-type: circle;
+  }
+body {
+  background: 	#379810;
+}
+  h1 {
+ont-size:45px;
+color: red;
+  }
+  h2 {
+    font-size: 35px;
+    color:blue;
+    background: white;
+    padding: 20px;
+    border: 10px solid black;
+  }
